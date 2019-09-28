@@ -21,7 +21,7 @@ plugins {
 }
 
 
-mainClassName= "JavaFXApp"
+mainClassName= "WebSSRApp"
 sourceCompatibility = 11
 targetCompatibility = 11
 group = 'com.project'
